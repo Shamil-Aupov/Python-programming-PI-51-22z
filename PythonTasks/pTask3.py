@@ -1,3 +1,4 @@
-print ('Ура!')
-print ('Ура!')
-print ('Ура!')
+word = "Ура!"
+print(word)
+print(word)
+print(word)
